@@ -3,3 +3,4 @@
 Jacob Alarcon
 Ulises Horta
 Anderson Rodriguez
+Cristian Hernandez Juan
